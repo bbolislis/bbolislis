@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Virtual Lab Deployment</b>
+- <b>Lab Deployment</b>
   - [Active Directory](https://github.com/bbolislis/ActiveDirectory)
   - [Cyber Security Lab](https://github.com/bbolislis/CyberSecurityLab)
   - [SOC Automation](https://github.com/bbolislis/SOCAutomation)
