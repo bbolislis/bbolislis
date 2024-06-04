@@ -9,6 +9,10 @@
 - <b>Red Team Advesary Emulation</b>
   - [Automated Advesary Emulation w/ Caldera](https://github.com/bbolislis/AdvesaryEmulation)
 
+- <b>Blue Team Operations</b>
+  - [Network Traffic Analysis](https://github.com/bbolislis/NetworkTrafficAnalysis)
+  - [Intrusion Detection](https://github.com/bbolislis/IntrusionDetection)
+  - [Security Event Monitoring](https://github.com/bbolislis/SecurityEventMonitoring)
 
 <h2> 🤳 Connect with me:</h2>
 
