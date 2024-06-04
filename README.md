@@ -3,13 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Lab Deployment</b>
-  - [Active Directory](https://github.com/bbolislis/ActiveDirectory)
   - [Cyber Security Lab](https://github.com/bbolislis/CyberSecurityLab)
   - [SOC Automation](https://github.com/bbolislis/SOCAutomation)
 
-- <b>Python</b>
-
-<h2>📺 YouTube Videos</h2>
+- <b>Red Team Advesary Emulation</b>
+  - [Automated Advesary Emulation w/ Caldera](https://github.com/bbolislis/AdvesaryEmulation)
 
 
 <h2> 🤳 Connect with me:</h2>
