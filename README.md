@@ -14,6 +14,8 @@
   - [Intrusion Detection](https://github.com/bbolislis/IntrusionDetection)
   - [Security Event Monitoring](https://github.com/bbolislis/SecurityEventMonitoring)
 
+- <b>Active Defense/Cyber Deception</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrentBolislis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
