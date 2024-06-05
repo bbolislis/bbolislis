@@ -7,7 +7,7 @@
   - [SOC Automation](https://github.com/bbolislis/SOCAutomation)
 
 - <b>Red Team Advesary Emulation</b>
-  - [Automated Advesary Emulation w/ Caldera](https://github.com/bbolislis/AdvesaryEmulation)
+  - [Advesary Emulation w/ Caldera](https://github.com/bbolislis/AdvesaryEmulation)
 
 - <b>Blue Team Operations</b>
   - [Network Traffic Analysis](https://github.com/bbolislis/NetworkTrafficAnalysis)
