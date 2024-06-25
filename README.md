@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brent! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>Lab Deployment</b>
   - [Cyber Security Lab](https://github.com/bbolislis/CyberSecurityLab)
@@ -14,7 +14,7 @@
   - [Intrusion Detection](https://github.com/bbolislis/IntrusionDetection)
   - [Security Event Monitoring](https://github.com/bbolislis/SecurityEventMonitoring)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="BrentBolislis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
