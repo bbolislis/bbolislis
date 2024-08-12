@@ -16,7 +16,7 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="BrentBolislis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BrentBolislis | LinkedIn" width="22px" src="https://logosvg.com.br/logos/linkedin-83.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/brent-bolislis
 
