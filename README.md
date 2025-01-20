@@ -1,18 +1,5 @@
 <h1>Hi, I'm Brent! 
 
-<h2>Cybersecurity Projects:</h2>
-
-- <b>Lab Deployment</b>
-  - [Cyber Security Lab](https://github.com/bbolislis/CyberSecurityLab)
-  - [SOC Automation](https://github.com/bbolislis/SOCAutomation)
-
-- <b>Red Team Advesary Emulation</b>
-  - [Advesary Emulation w/ Caldera](https://github.com/bbolislis/AdvesaryEmulation)
-
-- <b>Blue Team Operations</b>
-  - [Network Traffic Analysis](https://github.com/bbolislis/NetworkTrafficAnalysis)
-  - [Intrusion Detection](https://github.com/bbolislis/IntrusionDetection)
-  - [Security Event Monitoring](https://github.com/bbolislis/SecurityEventMonitoring)
 
 <h2>Connect with me:</h2>
 
