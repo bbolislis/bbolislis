@@ -5,7 +5,7 @@
 
 [<img align="left" alt="BrentBolislis | LinkedIn" width="22px" src="https://logosvg.com.br/logos/linkedin-83.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/brent-bolislis
+[linkedin]: https://linkedin.com/in/bbolislis
 
 <!--
 **bbolislis/bbolislis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
