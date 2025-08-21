@@ -28,23 +28,9 @@ Here are some of my hands-on networking projects:
 
 ---
 
-## 📜 Certifications (in progress or achieved)
-- Cisco CCNA (In Progress)
-
----
-
 ## 📫 How to Reach Me
 - **Email:** brentbolislis@gmail.com
 - **LinkedIn:** [linkedin.com/in/bbolislis](https://linkedin.com/in/bbolislis)
-
----
-
-### 📌 Note
-Each project in my repos includes:
-- **Network diagram** (draw.io / Packet Tracer export)
-- **Configuration files**
-- **Step-by-step documentation**
-- **Screenshots of testing results**
 
 ---
 
