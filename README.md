@@ -23,7 +23,7 @@ Here are some of my hands-on networking projects:
 |---------|-------------|-------|
 | [VLAN & Inter-VLAN Routing Lab](https://github.com/bbolislis/vlan-lab) | Segmented a small office network into multiple VLANs with router-on-a-stick setup. | Cisco Packet Tracer, Cisco IOS |
 | [OSPF Multi-Area Lab](https://github.com/bbolislis/ospf-lab) | Designed and configured OSPF with multiple areas for efficient routing. | GNS3, Cisco IOS |
-| [Network Automation Script](https://github.com/bbolislis/network-backup) | Python script to back up switch configs via SSH. | Python, Netmiko |
+| [Network Automation](https://github.com/bbolislis/Network-Automation) | Collections of scripts, tools, and resources to automate network operations. | Python, Netmiko, Ansible |
 | [Wireshark TCP Analysis](https://github.com/bbolislis/tcp-analysis) | Captured and analyzed TCP 3-way handshake and retransmissions. | Wireshark |
 
 ---
