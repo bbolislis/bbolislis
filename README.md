@@ -9,10 +9,10 @@
 I’m transitioning from IT support into network engineering, building hands-on projects that show my skills in:
 - **Routing & Switching** (Cisco IOS, OSPF, BGP, VLANs)
 - **Network Automation** (Python, Netmiko, Ansible)
-- **Network Design** (IPv4/IPv6 addressing, subnetting, topology planning)
-- **Troubleshooting & Analysis** (Wireshark, packet analysis, ACLs)
+- **Network Security** (IDS/IPS, PFSense/OPNSense, firewalls)
+- **Troubleshooting & Analysis** (Wireshark, packet analysis, ACLs, Threat hunting)
 
-I use **Packet Tracer, GNS3, and Wireshark** to simulate and document real-world networking scenarios.
+I use **Packet Tracer, GNS3, Containerlabs and Wireshark** to simulate and document real-world networking scenarios.
 
 ---
 
@@ -21,10 +21,10 @@ Here are some of my hands-on networking projects:
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [VLAN & Inter-VLAN Routing Lab](https://github.com/bbolislis/vlan-lab) | Segmented a small office network into multiple VLANs with router-on-a-stick setup. | Cisco Packet Tracer, Cisco IOS |
-| [OSPF Multi-Area Lab](https://github.com/bbolislis/ospf-lab) | Designed and configured OSPF with multiple areas for efficient routing. | GNS3, Cisco IOS |
+| [Network Administration](https://github.com/bbolislis/Network-Administration) | All activities related to computer networks . | Cisco Packet Tracer, ContainerLabs, GNS3 |
 | [Network Automation](https://github.com/bbolislis/Network-Automation) | Collections of scripts, tools, and resources to automate network operations. | Python, Netmiko, Ansible |
-| [Wireshark TCP Analysis](https://github.com/bbolislis/tcp-analysis) | Captured and analyzed TCP 3-way handshake and retransmissions. | Wireshark |
+| [Netwrok Security](https://github.com/bbolislis/Netwokr-Security) | TBD | TBD
+| [Troubleshooting and Analysis](https://github.com/bbolislis/Packet-Analysis) | Captures and analysis of PCAPs files. | Wireshark, Tcpdump, RITA |
 
 ---
 
