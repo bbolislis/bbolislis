@@ -12,7 +12,7 @@ I’m transitioning from IT support into network engineering, building hands-on 
 - **Network Security** (IDS/IPS, PFSense/OPNSense, firewalls)
 - **Troubleshooting & Analysis** (Wireshark, packet analysis, ACLs, Threat hunting)
 
-I use **Packet Tracer, GNS3, Containerlabs and Wireshark** and other various tools to simulate and document real-world networking scenarios.
+I use **Packet Tracer, GNS3, Containerlabs, Wireshark** and other various tools to simulate and document real-world networking scenarios.
 
 ---
 
