@@ -21,7 +21,7 @@ Here are some of my hands-on networking projects:
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Netcorp](https://github.com/bbolislis/netcorp-network) | This repository is a portfolio project that demonstrates end-to-end network design, security, monitoring, automation, disaster recovery, and SLA management using free and open-source tools. | pfsense, Zabbix, Grafana, Graylog, Containerlabs, EOS/SR Linux, etc...|
+| [Netcorp](https://github.com/bbolislis/netcorp-network) | This repository is a portfolio project that demonstrates end-to-end network design, security, monitoring, automation, disaster recovery, and SLA management using free and open-source tools. | pfsense, Zabbix, Grafana, Graylog, Docker, Netbox, Oxidized etc...|
 | [Network Administration](https://github.com/bbolislis/Network-Administration) | All activities related to computer networks . | Cisco Packet Tracer, ContainerLabs, GNS3 |
 | [Network Automation](https://github.com/bbolislis/Network-Automation) | Collections of scripts, tools, and resources to automate network operations. | Python, Netmiko, Ansible |
 | [Netwrok Security](https://github.com/bbolislis/Network-Security) | TBD | TBD
