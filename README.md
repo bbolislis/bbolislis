@@ -1,6 +1,6 @@
 # Hi, I'm Brent 👋
 
-💻 **Ex-IT Support → Network Engineer in Progress**  
+💻 **IT Support → Network Engineer in Progress**  
 📍 Based in Philippines | 🌐 Open to remote opportunities  
 
 ---
